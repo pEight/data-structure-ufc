@@ -1,6 +1,7 @@
 # Estrutura de Dados - CK0109
 
 | --------- | segunda-feira | terça-feira | quarta-feira | quinta-feira | sexta-feira |
+| --------- | ------------- | ----------- | ------------ | ------------ | ----------- |
 | 08h00~10h00 | -           |             | -            | -            | -           |
 | 10h00~12h00 | Aula        | -           | Aula         | -            | Aula        |
 
