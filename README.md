@@ -5,10 +5,9 @@
 | 08h00~10h00 | -           |             | -            | -            | -           |
 | 10h00~12h00 | Aula        | -           | Aula         | -            | Aula        |
 
-**Professor**: Pablo 
+**Professor**: Pablo
 **Telefone Professor**: 3366-9841
 **E-mail**: pablo@dc.ufc.br
-
 **Dúvida C++**: cppreference.com
 
 ## Aulas
@@ -25,4 +24,4 @@
 
 ## Licença
 
-[MIT]()
+[MIT](./LICENSE)
