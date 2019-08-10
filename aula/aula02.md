@@ -51,7 +51,20 @@ int fatorial(int n) {
 }
 ```
 
+**Observação**: O código `return (n == 0) ? 1 : n*fatorial(n-1);` é equivalente a:
+
+```cpp
+  if (n == 0) {
+    return 1;
+  } else {
+    return n*fatorial(n-1);
+  }
+```
+
+O operador `<condition> ? <result-if-condition-true> : <result-if-condition-false>` é chamado de operador ternário. É uma forma mais expressiva de declarar estrutura de condições e também é um **suggar syntax**. Ou seja, uma forma de escrever o mesmo com menos linhas de código.
+
 [FOTO AQUI!]
+(LINK DO DRIVE NÃO FOI ENVIADO AINDA)
 
 ## Ponteiros
 
