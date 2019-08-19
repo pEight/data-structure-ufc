@@ -8,6 +8,7 @@
 **Professor**: Pablo
 **Telefone Professor**: 3366-9841
 **E-mail**: pablo@dc.ufc.br
+**Site**: http://dc.ufc.br/~pablo/2019-2/ed/
 **Dúvida C++**: cppreference.com
 
 ## Aulas
