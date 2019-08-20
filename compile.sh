@@ -6,7 +6,7 @@ CYAN='\033[0;36m'
 PURPLE='\033[0;35m'
 DEFAULT_COLOR='\033[0m'
 
-if [ -e $1 ] && [ -e $2 ] 
+if [ -e $1 ] && [ -n $2 ] 
 then
   g++ $1 -Wall -Wextra -pedantic -o $2
   ./$2
