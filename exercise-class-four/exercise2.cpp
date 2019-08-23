@@ -8,7 +8,7 @@ char* initArray(int n) {
 }
 
 void deleteArray(char* arr) {
-  delete arr;
+  delete[] arr;
 }
 
 char* resizedArray(char* oldArr, int n) {
