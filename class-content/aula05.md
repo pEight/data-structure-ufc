@@ -29,7 +29,7 @@ int main() {
 
 ## Avaliação de expressão aritméticas
 
-2. Problema: escreva um programa em C++ que leia do usuário uma expressão arittmética envolvendo números naturais e as operações `+`, `-`, `*`, `/`, e que escreva o resultado(racional) da expressão. Restrição da entrada: a expressão possuirá todos os parênteses, um par para cada operador.
+Problema: escreva um programa em C++ que leia do usuário uma expressão arittmética envolvendo números naturais e as operações `+`, `-`, `*`, `/`, e que escreva o resultado(racional) da expressão. Restrição da entrada: a expressão possuirá todos os parênteses, um par para cada operador.
 
 **Exemplo de entrada**:
 
